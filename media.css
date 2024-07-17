@@ -1,0 +1,14 @@
+@media(max-width: 575px) {
+    .navbar {
+        display: none !important;
+    }
+    .container {
+        height: 950px;
+        margin: 0 !important;
+        padding: 0 !important;
+    }
+    .quiz-card {
+        width: 100% !important;
+        height: 100% !important;
+    }
+}
